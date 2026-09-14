@@ -1,0 +1,30 @@
+# Modèles et données
+*.pkl
+*.joblib
+*.h5
+*.pth
+
+# Caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Environnement
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Résultats temporaires
+predictions_*.json
+*.log
